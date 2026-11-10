@@ -72,4 +72,4 @@ __all__ = [
     "SHARED_WIDGET_QUERY",
 ]
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"

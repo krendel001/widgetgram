@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.1.1
+
+Правка структуры пакета. В 0.1.0 wheel ушёл на PyPI без кода из-за неправильного
+`[tool.setuptools.packages.find]`, импорт `widgetgram` падал с ModuleNotFoundError.
+0.1.0 yanked, использовать 0.1.1 или выше.
+
 ## 0.1.0
 
 Первый релиз.
